@@ -61,10 +61,6 @@ a {
   background: #eee;
 }
 
-.left-links, .right-links {
-  gap 20px;
-}
-
 ul {
   display: flex;
   list-style: none;
